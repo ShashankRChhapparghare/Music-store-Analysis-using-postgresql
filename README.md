@@ -1,4 +1,4 @@
-# Music-store-Analysis-postgresql.
+# SQL music store Analysis
 Objective is to Analyze the music playlist database.
 we  can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
 
